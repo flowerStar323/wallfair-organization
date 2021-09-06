@@ -1,0 +1,18 @@
+export default {
+  betApprove: 'betApprove',
+  betCreation: 'betCreation',
+  betView: 'betView',
+  eventDetails: 'eventDetails',
+  referralList: 'referralList',
+  tradeDetails: 'tradeDetails',
+  welcome: 'welcome',
+  signUpNotificationFirst: 'signUpNotificationFirst',
+  signUpNotificationSecond: 'signUpNotificationSecond',
+  tradeView: 'tradeView',
+  withdrawalSuccess: 'withdrawalSuccess',
+  deposit: 'deposit',
+  evaluateEvent: 'evaluateEvent',
+  reportEvent: 'reportEvent',
+  loginRegister: 'loginRegister',
+  verifyEmail: 'verifyEmail',
+};
